@@ -1,0 +1,28 @@
+{
+  "name": "rbr",
+  "version": "1.0.0",
+  "description": "A basic Roblox Backdoor (EDUCATIONAL PURPOSES ONLY)",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JustEmjil/RBR.git"
+  },
+  "keywords": [
+    "Roblox",
+    "Backdoor"
+  ],
+  "author": "JustEmjil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JustEmjil/RBR/issues"
+  },
+  "homepage": "https://github.com/JustEmjil/RBR#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "discord.js": "^12.5.3",
+    "express": "^4.17.1"
+  }
+}
